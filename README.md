@@ -9,10 +9,10 @@
 
 
 
-
+Dataset link = https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
 <p align="center">
   <b><span style="color:blue">--Thank You--</span></b>
 </p>
 
 
-Dataset link = https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
+
