@@ -1,4 +1,4 @@
-# Metal casting product image classification for quality innspection
+# Metal casting product image classification for quality inspection
 [![Read-Blog-Medium](https://img.shields.io/badge/Read%20Blog-Medium-blue.svg?longCache=true&style=plastic)](https://medium.com/@patilyashodatta)
 
 <p align="center">
